@@ -1,0 +1,406 @@
+Genero,Frequencia,Porcentagem.Freq
+Drama,405,5.99112426
+"Comedy, Drama, Romance",312,4.615384615
+"Comedy, Drama",292,4.319526627
+Comedy,259,3.831360947
+"Drama, Romance",222,3.284023669
+"Comedy, Romance",205,3.032544379
+"Action, Crime, Drama",170,2.514792899
+"Animation, Adventure, Comedy",162,2.396449704
+"Crime, Drama, Thriller",139,2.056213018
+"Action, Adventure, Sci-Fi",120,1.775147929
+"Action, Adventure, Comedy",107,1.582840237
+"Crime, Drama, Mystery",105,1.553254438
+"Horror, Mystery, Thriller",100,1.479289941
+"Action, Crime, Thriller",99,1.464497041
+"Action, Comedy, Crime",97,1.434911243
+"Biography, Drama, History",95,1.405325444
+"Horror, Thriller",89,1.316568047
+"Action, Adventure, Fantasy",88,1.301775148
+"Drama, Thriller",88,1.301775148
+"Crime, Drama",87,1.286982249
+"Comedy, Crime, Drama",80,1.183431953
+"Biography, Drama",77,1.139053254
+Horror,76,1.124260355
+"Action, Adventure, Drama",73,1.079881657
+"Comedy, Crime",68,1.00591716
+"Action, Adventure, Thriller",64,0.946745562
+"Action, Thriller",62,0.917159763
+"Biography, Crime, Drama",60,0.887573964
+"Drama, Mystery, Thriller",59,0.872781065
+"Adventure, Comedy, Family",51,0.75443787
+"Animation, Action, Adventure",45,0.665680473
+"Drama, Horror, Mystery",44,0.650887574
+"Action, Drama, Thriller",43,0.636094675
+"Biography, Comedy, Drama",43,0.636094675
+"Comedy, Drama, Music",42,0.621301775
+"Comedy, Drama, Fantasy",41,0.606508876
+"Drama, War",41,0.606508876
+"Comedy, Drama, Family",40,0.591715976
+"Comedy, Family, Fantasy",40,0.591715976
+"Drama, Sport",38,0.562130178
+"Biography, Drama, Music",36,0.532544379
+"Biography, Drama, Romance",36,0.532544379
+"Crime, Drama, Romance",36,0.532544379
+"Drama, Music, Romance",36,0.532544379
+"Adventure, Family, Fantasy",34,0.50295858
+"Biography, Drama, Sport",34,0.50295858
+"Adventure, Comedy, Drama",32,0.473372781
+"Drama, Music",32,0.473372781
+"Comedy, Family",31,0.458579882
+"Action, Horror, Sci-Fi",30,0.443786982
+"Drama, Mystery, Romance",29,0.428994083
+"Drama, Fantasy, Horror",28,0.414201183
+"Action, Adventure, Crime",27,0.399408284
+"Action, Drama, History",27,0.399408284
+"Action, Sci-Fi, Thriller",26,0.384615385
+"Animation, Adventure, Family",26,0.384615385
+"Action, Comedy",25,0.369822485
+"Drama, Fantasy, Romance",25,0.369822485
+"Comedy, Horror",24,0.355029586
+"Action, Sci-Fi",23,0.340236686
+"Comedy, Fantasy, Horror",23,0.340236686
+"Comedy, Fantasy, Romance",23,0.340236686
+"Comedy, Music",23,0.340236686
+"Comedy, Sport",23,0.340236686
+"Drama, Horror, Thriller",22,0.325443787
+"Drama, Mystery, Sci-Fi",22,0.325443787
+"Action, Adventure, Family",21,0.310650888
+"Animation, Comedy, Family",21,0.310650888
+"Crime, Thriller",21,0.310650888
+"Drama, History, War",21,0.310650888
+"Drama, Romance, War",21,0.310650888
+"Adventure, Comedy",20,0.295857988
+"Drama, Romance, Thriller",20,0.295857988
+"Horror, Mystery",20,0.295857988
+"Comedy, Crime, Thriller",19,0.281065089
+"Crime, Drama, Horror",19,0.281065089
+"Adventure, Biography, Drama",18,0.266272189
+"Drama, Horror, Sci-Fi",18,0.266272189
+"Horror, Sci-Fi, Thriller",18,0.266272189
+"Comedy, Fantasy",17,0.25147929
+"Crime, Mystery, Thriller",17,0.25147929
+"Drama, Family",17,0.25147929
+"Drama, History, Romance",17,0.25147929
+"Drama, Mystery",17,0.25147929
+"Drama, Sci-Fi, Thriller",17,0.25147929
+"Mystery, Thriller",17,0.25147929
+"Action, Biography, Drama",16,0.236686391
+"Comedy, Crime, Romance",16,0.236686391
+"Drama, Fantasy, Mystery",16,0.236686391
+"Drama, History",16,0.236686391
+"Action, Adventure, Horror",15,0.221893491
+"Action, Comedy, Fantasy",15,0.221893491
+"Action, Drama",15,0.221893491
+"Action, Fantasy, Horror",15,0.221893491
+"Adventure, Comedy, Crime",15,0.221893491
+"Adventure, Drama, Family",15,0.221893491
+"Comedy, Crime, Mystery",15,0.221893491
+"Comedy, Family, Romance",15,0.221893491
+"Action, Adventure",14,0.207100592
+"Action, Crime, Sci-Fi",14,0.207100592
+"Action, Drama, Sci-Fi",14,0.207100592
+"Action, Drama, War",14,0.207100592
+"Action, Mystery, Thriller",14,0.207100592
+"Adventure, Drama",14,0.207100592
+"Animation, Adventure, Drama",14,0.207100592
+"Drama, History, Thriller",14,0.207100592
+"Drama, Western",14,0.207100592
+"Horror, Sci-Fi",14,0.207100592
+"Action, Drama, Mystery",13,0.192307692
+"Adventure, Drama, Fantasy",13,0.192307692
+"Drama, Horror",13,0.192307692
+"Adventure, Drama, History",12,0.177514793
+"Adventure, Drama, Romance",12,0.177514793
+"Adventure, Drama, Thriller",12,0.177514793
+"Biography, Drama, Thriller",12,0.177514793
+"Drama, Romance, Sci-Fi",12,0.177514793
+"Drama, Sci-Fi",12,0.177514793
+Thriller,12,0.177514793
+"Action, Comedy, Drama",11,0.162721893
+"Action, Drama, Fantasy",11,0.162721893
+"Comedy, Drama, Musical",11,0.162721893
+"Comedy, Drama, Sport",11,0.162721893
+"Comedy, Music, Romance",11,0.162721893
+"Comedy, Romance, Sport",11,0.162721893
+"Drama, Musical, Romance",11,0.162721893
+"Horror, Mystery, Sci-Fi",11,0.162721893
+"Animation, Family, Fantasy",10,0.147928994
+"Comedy, Drama, Mystery",10,0.147928994
+"Fantasy, Horror, Mystery",10,0.147928994
+"Action, Biography, Crime",9,0.133136095
+"Action, Horror, Thriller",9,0.133136095
+"Adventure, Comedy, Sci-Fi",9,0.133136095
+"Biography, Comedy, Crime",9,0.133136095
+"Biography, Drama, Family",9,0.133136095
+"Comedy, Horror, Sci-Fi",9,0.133136095
+"Comedy, Horror, Thriller",9,0.133136095
+"Crime, Drama, History",9,0.133136095
+"Crime, Drama, Music",9,0.133136095
+"Drama, Family, Fantasy",9,0.133136095
+"Drama, Fantasy",9,0.133136095
+"Action, Comedy, Horror",8,0.118343195
+"Action, Comedy, Sci-Fi",8,0.118343195
+"Action, Drama, Sport",8,0.118343195
+"Adventure, Comedy, Fantasy",8,0.118343195
+"Comedy, Sci-Fi",8,0.118343195
+"Crime, Horror, Mystery",8,0.118343195
+"Drama, Romance, Sport",8,0.118343195
+"Fantasy, Horror",8,0.118343195
+"Sci-Fi, Thriller",8,0.118343195
+"Action, Adventure, Biography",7,0.103550296
+"Action, Comedy, Romance",7,0.103550296
+"Action, Drama, Romance",7,0.103550296
+"Animation, Comedy, Drama",7,0.103550296
+"Biography, Drama, War",7,0.103550296
+"Comedy, Drama, Sci-Fi",7,0.103550296
+"Comedy, Romance, Sci-Fi",7,0.103550296
+"Crime, Horror, Thriller",7,0.103550296
+"Drama, Horror, Romance",7,0.103550296
+"Fantasy, Horror, Thriller",7,0.103550296
+"Action, Adventure, Mystery",6,0.088757396
+"Action, Adventure, Romance",6,0.088757396
+"Adventure, Crime, Drama",6,0.088757396
+"Animation, Action, Comedy",6,0.088757396
+"Comedy, Drama, Horror",6,0.088757396
+"Comedy, Drama, Thriller",6,0.088757396
+"Comedy, Musical",6,0.088757396
+"Comedy, Musical, Romance",6,0.088757396
+"Action, Comedy, Family",5,0.073964497
+"Action, Comedy, Thriller",5,0.073964497
+"Action, Crime, Mystery",5,0.073964497
+"Action, Horror, Mystery",5,0.073964497
+"Adventure, Drama, Horror",5,0.073964497
+"Adventure, Drama, Mystery",5,0.073964497
+"Animation, Drama, Family",5,0.073964497
+"Comedy, Crime, Family",5,0.073964497
+"Comedy, Family, Music",5,0.073964497
+"Comedy, Family, Sport",5,0.073964497
+"Comedy, Horror, Mystery",5,0.073964497
+"Comedy, Romance, Drama",5,0.073964497
+"Comedy, War",5,0.073964497
+"Drama, Music, Musical",5,0.073964497
+"Mystery, Sci-Fi, Thriller",5,0.073964497
+Western,5,0.073964497
+Action,4,0.059171598
+"Action, Adventure, Western",4,0.059171598
+"Action, Comedy, War",4,0.059171598
+"Action, Crime, Horror",4,0.059171598
+"Action, Drama, Family",4,0.059171598
+"Action, Fantasy, Thriller",4,0.059171598
+"Action, Mystery, Sci-Fi",4,0.059171598
+"Action, Western",4,0.059171598
+"Adventure, Drama, Sci-Fi",4,0.059171598
+"Adventure, Drama, Western",4,0.059171598
+"Adventure, Fantasy",4,0.059171598
+"Adventure, Horror, Thriller",4,0.059171598
+"Animation, Biography, Drama",4,0.059171598
+"Animation, Comedy, Fantasy",4,0.059171598
+"Comedy, Family, Sci-Fi",4,0.059171598
+"Comedy, Western",4,0.059171598
+"Crime, Drama, Film-Noir",4,0.059171598
+"Drama, History, Sport",4,0.059171598
+"Drama, Musical",4,0.059171598
+"Drama, Romance, Western",4,0.059171598
+"Drama, Thriller, War",4,0.059171598
+"Mystery, Romance, Thriller",4,0.059171598
+"Action, Adventure, History",3,0.044378698
+"Action, Crime",3,0.044378698
+"Action, Crime, Fantasy",3,0.044378698
+"Action, Drama, Horror",3,0.044378698
+"Action, Horror",3,0.044378698
+"Adventure, Drama, War",3,0.044378698
+"Adventure, Family",3,0.044378698
+"Adventure, Horror, Sci-Fi",3,0.044378698
+"Adventure, Mystery, Sci-Fi",3,0.044378698
+"Adventure, Sci-Fi",3,0.044378698
+"Animation, Drama",3,0.044378698
+"Animation, Drama, Fantasy",3,0.044378698
+"Biography, Drama, Fantasy",3,0.044378698
+"Comedy, Crime, Fantasy",3,0.044378698
+"Comedy, Crime, Musical",3,0.044378698
+"Comedy, Drama, War",3,0.044378698
+"Crime, Drama, Fantasy",3,0.044378698
+"Crime, Drama, Musical",3,0.044378698
+"Crime, Drama, War",3,0.044378698
+"Drama, Comedy",3,0.044378698
+"Drama, Family, History",3,0.044378698
+"Drama, Family, Musical",3,0.044378698
+"Drama, Family, Sport",3,0.044378698
+"Drama, History, Horror",3,0.044378698
+"Drama, History, Music",3,0.044378698
+"Drama, History, Mystery",3,0.044378698
+"Romance, Sci-Fi, Thriller",3,0.044378698
+"Action, Adventure, War",2,0.029585799
+"Action, Biography, Comedy",2,0.029585799
+"Action, Comedy, Sport",2,0.029585799
+"Action, Crime, Romance",2,0.029585799
+"Action, Drama, Western",2,0.029585799
+"Action, Fantasy",2,0.029585799
+"Action, Sport",2,0.029585799
+"Adventure, Comedy, Horror",2,0.029585799
+"Adventure, Comedy, Music",2,0.029585799
+"Adventure, Comedy, Musical",2,0.029585799
+"Adventure, Comedy, Mystery",2,0.029585799
+"Adventure, Family, Romance",2,0.029585799
+"Adventure, Family, Sci-Fi",2,0.029585799
+"Adventure, Fantasy, Horror",2,0.029585799
+"Adventure, Horror",2,0.029585799
+"Adventure, Horror, Mystery",2,0.029585799
+"Adventure, Mystery, Thriller",2,0.029585799
+"Animation, Adventure, Fantasy",2,0.029585799
+"Animation, Crime, Drama",2,0.029585799
+"Animation, Family",2,0.029585799
+"Biography, Comedy",2,0.029585799
+"Biography, Drama, Mystery",2,0.029585799
+"Comedy, Crime, Music",2,0.029585799
+"Comedy, Crime, Sci-Fi",2,0.029585799
+"Comedy, Crime, Sport",2,0.029585799
+"Comedy, Drama, History",2,0.029585799
+"Comedy, Fantasy, Sci-Fi",2,0.029585799
+"Comedy, Horror, Romance",2,0.029585799
+"Comedy, Mystery, Romance",2,0.029585799
+"Comedy, Mystery, Sci-Fi",2,0.029585799
+"Comedy, Mystery, Thriller",2,0.029585799
+"Comedy, Thriller",2,0.029585799
+"Crime, Drama, Western",2,0.029585799
+"Crime, Romance, Thriller",2,0.029585799
+"Drama, Comedy, Crime",2,0.029585799
+"Drama, Family, Romance",2,0.029585799
+"Drama, Fantasy, History",2,0.029585799
+"Drama, Fantasy, Sci-Fi",2,0.029585799
+"Drama, Fantasy, Sport",2,0.029585799
+"Drama, Fantasy, Thriller",2,0.029585799
+"Drama, Film-Noir",2,0.029585799
+"Drama, Mystery, War",2,0.029585799
+"Drama, Romance, Comedy",2,0.029585799
+"Family, Fantasy, Musical",2,0.029585799
+"Musical, Romance",2,0.029585799
+"Romance, Drama",2,0.029585799
+"Thriller, Drama",2,0.029585799
+"Action, Comedy, Music",1,0.014792899
+"Action, Comedy, Mystery",1,0.014792899
+"Action, Comedy, Western",1,0.014792899
+"Action, Crime, Sport",1,0.014792899
+"Action, Drama, Comedy",1,0.014792899
+"Action, Drama, Crime",1,0.014792899
+"Action, Family, Fantasy",1,0.014792899
+"Action, Fantasy, Romance",1,0.014792899
+"Action, Fantasy, Western",1,0.014792899
+"Action, History",1,0.014792899
+"Action, History, Thriller",1,0.014792899
+"Action, Horror, Romance",1,0.014792899
+"Action, Romance, Thriller",1,0.014792899
+"Action, Sci-Fi, Sport",1,0.014792899
+"Action, Sport, Thriller",1,0.014792899
+"Action, War",1,0.014792899
+"Adventure, Biography, Comedy",1,0.014792899
+"Adventure, Biography, Crime",1,0.014792899
+"Adventure, Comedy, Romance",1,0.014792899
+"Adventure, Comedy, Sport",1,0.014792899
+"Adventure, Comedy, War",1,0.014792899
+"Adventure, Drama, Musical",1,0.014792899
+"Adventure, Family, Sport",1,0.014792899
+"Adventure, Fantasy, Romance",1,0.014792899
+"Adventure, Fantasy, Sci-Fi",1,0.014792899
+"Adventure, Fantasy, Thriller",1,0.014792899
+"Adventure, History, War",1,0.014792899
+"Adventure, Romance, Sci-Fi",1,0.014792899
+"Adventure, Romance, War",1,0.014792899
+"Adventure, Sci-Fi, Thriller",1,0.014792899
+"Adventure, Thriller",1,0.014792899
+"Adventure, Thriller, Western",1,0.014792899
+"Adventure, War, Western",1,0.014792899
+"Animation, Action, Sci-Fi",1,0.014792899
+"Animation, Adventure, Crime",1,0.014792899
+"Animation, Biography",1,0.014792899
+"Animation, Biography, Crime",1,0.014792899
+"Animation, Comedy, Crime",1,0.014792899
+"Animation, Comedy, Musical",1,0.014792899
+"Animation, Comedy, Sci-Fi",1,0.014792899
+"Animation, Drama, Horror",1,0.014792899
+"Animation, Drama, Mystery",1,0.014792899
+"Animation, Fantasy, Adventure",1,0.014792899
+"Biography, Comedy, Romance",1,0.014792899
+"Biography, Crime, Western",1,0.014792899
+"Biography, Drama, Musical",1,0.014792899
+"Biography, Drama, Western",1,0.014792899
+"Biography, Family, Sport",1,0.014792899
+"Biography, Romance",1,0.014792899
+"Comedy, Action",1,0.014792899
+"Comedy, Action, Sci-Fi",1,0.014792899
+"Comedy, Crime, History",1,0.014792899
+"Comedy, Crime, Horror",1,0.014792899
+"Comedy, Drama, Western",1,0.014792899
+"Comedy, Family, Western",1,0.014792899
+"Comedy, Fantasy, Music",1,0.014792899
+"Comedy, Fantasy, Mystery",1,0.014792899
+"Comedy, Fantasy, Thriller",1,0.014792899
+"Comedy, History",1,0.014792899
+"Comedy, Horror, Musical",1,0.014792899
+"Comedy, Music, Drama",1,0.014792899
+"Comedy, Music, Musical",1,0.014792899
+"Comedy, Music, War",1,0.014792899
+"Comedy, Romance, Thriller",1,0.014792899
+"Crime, Drama, Action",1,0.014792899
+"Crime, Drama, Family",1,0.014792899
+"Crime, Drama, Sci-Fi",1,0.014792899
+"Crime, Horror",1,0.014792899
+"Crime, Horror, Romance",1,0.014792899
+"Crime, Mystery, Drama",1,0.014792899
+"Crime, Romance",1,0.014792899
+"Crime, Thriller, Drama",1,0.014792899
+"Crime, Thriller, War",1,0.014792899
+"Drama, Comedy, Sci-Fi",1,0.014792899
+"Drama, Crime",1,0.014792899
+"Drama, Family, Music",1,0.014792899
+"Drama, Fantasy, Music",1,0.014792899
+"Drama, Fantasy, War",1,0.014792899
+"Drama, Fantasy, Western",1,0.014792899
+"Drama, Film-Noir, Romance",1,0.014792899
+"Drama, History, Musical",1,0.014792899
+"Drama, Horror, Music",1,0.014792899
+"Drama, Horror, Musical",1,0.014792899
+"Drama, Horror, Western",1,0.014792899
+"Drama, Music, Mystery",1,0.014792899
+"Drama, Music, War",1,0.014792899
+"Drama, Mystery, Western",1,0.014792899
+"Drama, Sport, Thriller",1,0.014792899
+"Drama, Sport, War",1,0.014792899
+"Drama, Thriller, Crime",1,0.014792899
+"Drama, Thriller, Western",1,0.014792899
+"Drama, War, Comedy",1,0.014792899
+"Drama, War, Western",1,0.014792899
+"Family, Comedy",1,0.014792899
+"Family, Comedy, Action",1,0.014792899
+"Family, Drama",1,0.014792899
+"Family, Music, Musical",1,0.014792899
+"Family, Romance, Sport",1,0.014792899
+"Family, Sci-Fi",1,0.014792899
+Fantasy,1,0.014792899
+"Fantasy, Horror, Romance",1,0.014792899
+"Fantasy, Horror, Sci-Fi",1,0.014792899
+"Fantasy, Musical, Romance",1,0.014792899
+"Fantasy, Mystery, Romance",1,0.014792899
+"Fantasy, Romance",1,0.014792899
+"Fantasy, Sci-Fi",1,0.014792899
+"Fantasy, Sci-Fi, Thriller",1,0.014792899
+"Film-Noir, Mystery",1,0.014792899
+"Horror, Music, Thriller",1,0.014792899
+"Horror, Musical",1,0.014792899
+"Horror, Musical, Sci-Fi",1,0.014792899
+"Horror, Romance",1,0.014792899
+"Horror, Romance, Thriller",1,0.014792899
+Music,1,0.014792899
+Musical,1,0.014792899
+"Musical, Drama, Romance",1,0.014792899
+Romance,1,0.014792899
+"Romance, Comedy, Drama",1,0.014792899
+"Romance, Comedy, Musical",1,0.014792899
+"Romance, Drama, Comedy",1,0.014792899
+"Romance, Sci-Fi",1,0.014792899
+"Romance, Thriller",1,0.014792899
+Sci-Fi,1,0.014792899
+"Thriller, Western",1,0.014792899
+"War, Drama",1,0.014792899
+"War, Drama, Action",1,0.014792899

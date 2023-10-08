@@ -1,0 +1,55 @@
+,Nota_média_Imdb
+Minimo,1.4
+1° quartil,5.8
+Média,6.4
+3° quartil,7.1
+Maximo,9.3
+,
+,Número_votos_IMDB
+Minimo,100
+1° quartil,"10,166"
+Média,"90,120"
+3° quartil,"98,731"
+Maximo,"2,159,628"
+,
+,Orçamento_USD_USA
+Minimo,$2.00 
+1° quartil,"$5,000,000.00 "
+Média,"$29,414,267.18 "
+3° quartil,"$35,000,000.00 "
+Maximo,"$356,000,000.00 "
+,
+,Renda_bruta_mundial_USD
+Minimo,$77.00 
+1° quartil,"$3,231,421.50 "
+Média,"$84,368,142.36 "
+3° quartil,"$86,298,548.50 "
+Maximo,"$2,797,800,564.00 "
+,
+,ROI_percentual
+Minimo,-100
+1° quartil,-56
+Média,60158
+3° quartil,249
+Maximo,385711840
+,
+,Nota_média_metascore
+Minimo,1
+1° quartil,41
+Média,55
+3° quartil,68
+Maximo,100
+,
+,Número_avaliações_Metacritics
+Minimo,1
+1° quartil,69
+Média,288
+3° quartil,327
+Maximo,8302
+,
+,Número_avaliações_criticoscinema
+Minimo,1
+1° quartil,55
+Média,144
+3° quartil,192
+Maximo,987
